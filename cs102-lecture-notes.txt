@@ -1,0 +1,5 @@
+"git push" for push files to github.
+"git status" show the working tree status.
+"git commit" for record changes to the repositary.
+"git clone" for clone a repository to a new directory.
+"git add" for add new content"
