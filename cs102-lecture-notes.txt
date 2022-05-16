@@ -3,3 +3,19 @@
 "git commit" for record changes to the repositary.
 "git clone" for clone a repository to a new directory.
 "git add" for add new content"
+
+#visual studio
+
+VS code is lightweight but powerful code editor and free editor that is use to writinhg codes, and also helps in 
+debugging. 
+
+It is use to write the code in easy manner and in this software lots of features which makes it very useful.
+
+It supports multiple language and cross platform support , extentions, respository , web support , git support etc.
+
+#markdown
+
+Markdown is a lightweight markup language for creating formatted text using plain test editor.
+and that was created by John gruber and Aaron swartz in 2004 . 
+Markdown is open file format. Its extension is .md
+Its usage for readme files ,Blogging , instant messaging , online forums , collaborative software, documentation pages etc. 
